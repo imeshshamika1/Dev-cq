@@ -6,26 +6,7 @@
  
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/J3FK9zw/image.png" width="480" height="350"/>
-  <p align="center">
-<a href="#"><img title="Cyber Queen" src="https://img.shields.io/badge/CyberQueen-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-  <p align="center">
-<a href="https://github.com/SLTechnicalTips"><img title="Author" src="https://img.shields.io/badge/Author-SLTechnicalTips/?color=blue&style=for-the-badge&logo=whatsapp"></a>
-</p>
-</div>
 
-
-
-
-<p align="center">
-    Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
-    <br>
-        <a href="https://chat.whatsapp.com/BzQiMPrabddJ4RfulG5888">Whatsapp Group</a> |
-        <a href="https://www.youtube.com/SLTechnicalTips">Youtube Channel</a>
-    <br>
-</p>
-
-## Setup
 <div align="center">
 
   ### Simple Method
